@@ -151,8 +151,6 @@ Soy un **Desarrollador Backend** especializado en **arquitecturas modernas** y *
 
 </div>
 
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=donetrmm&color=0e75b6&style=flat" alt="Profile views" />
   
