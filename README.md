@@ -103,6 +103,7 @@ Soy un **Desarrollador Backend** especializado en **arquitecturas modernas** y *
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-4F4F4F?style=for-the-badge&logo=websocket&logoColor=white)
+![Mocroservicios](https://img.shields.io/badge/Microservices-4a352fa?style=for-the-badge&logo=websocket&logoColor=white)
 
 ### 🧪 Testing y Calidad
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
