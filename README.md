@@ -155,7 +155,7 @@ Soy un **Desarrollador Backend** especializado en **arquitecturas modernas** y *
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=donetrmm&color=0e75b6&style=flat" alt="Profile views" />
   
-  ### 💡 *"El código limpio no se escribe siguiendo reglas. Se escribe con el corazón."*
+  ### 💡 *"Innovación + Pasión = Código que marca la diferencia."*
   
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
