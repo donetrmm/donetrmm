@@ -133,7 +133,6 @@ Soy un **Desarrollador Backend** especializado en **arquitecturas modernas** y *
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donetrmm&theme=tokyonight" alt="Profile Summary" />
 </div>
----
 
 ## 🌐 Idiomas
 
@@ -150,6 +149,8 @@ Soy un **Desarrollador Backend** especializado en **arquitecturas modernas** y *
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donetrm)
 
 </div>
+
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=donetrmm&color=0e75b6&style=flat" alt="Profile views" />
